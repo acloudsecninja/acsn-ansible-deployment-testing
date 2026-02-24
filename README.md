@@ -65,3 +65,7 @@ You can modify the following variables in the playbook:
 - `container_name`: Name of the Docker container (default: ubuntu-container)
 - `image_name`: Docker image to use (default: ubuntu:latest)
 - `container_state`: Container state (default: started)
+
+- Created and Maintained by - A Cloud Security Ninja LLC - 
+
+- For Information contact us at @ (https://www.acloudsec.ninja/booking-calendar/free-15-minute-consultation)
